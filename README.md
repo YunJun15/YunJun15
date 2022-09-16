@@ -8,4 +8,3 @@
 YunJun15/YunJun15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href=”https://www.linkedin.com/in/asia-sharif-60616b150/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
